@@ -17,3 +17,7 @@
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-090909?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
 ![notion](https://img.shields.io/badge/notion-090909?style=for-the-badge&logo=notion&logoColor=00000)
+### Follow me
+[![linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dmytro-katsubo/)
+[![instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/_dmytro.21_?igshid=ZGUzMzM3NWJiOQ==)
+[![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/katsuboushi)
