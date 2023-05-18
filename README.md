@@ -10,7 +10,6 @@
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux&logoColor=BD00FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=47C5FB)
 ![angular](https://img.shields.io/badge/angular-090909?style=for-the-badge&logo=angular&logoColor=DD0031)                   
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=FF7A00)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=00000)
 ![Npm](https://img.shields.io/badge/Npm-090909?style=for-the-badge&logo=Npm&logoColor=FF0000)
 ![Prettier](https://img.shields.io/badge/Prettier-090909?style=for-the-badge&logo=Prettier&logoColor=FFD200)
