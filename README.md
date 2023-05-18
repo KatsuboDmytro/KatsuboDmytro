@@ -1,4 +1,4 @@
-### 👋 Hi, I'm a Junior Frontent Developer
+### 👋 Hello World
 🏢 Looking for a job <br>
 👦🏻 19 y.o.<br>
 ⚙️ I like to learn new technologies<br>
