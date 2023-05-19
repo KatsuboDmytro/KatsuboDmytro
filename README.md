@@ -3,7 +3,7 @@
 👦🏻 19 y.o.<br>
 ⚙️ I like to learn new technologies<br>
 ❤️ I'm in love with web development<br>
-⚡ Fun fact - I love traveling
+🇺🇦 Glory to Ukraine
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=FF7A00)
 ![Css3](https://img.shields.io/badge/Css3-090909?style=for-the-badge&logo=Css3&logoColor=47C5FB)
