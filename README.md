@@ -31,3 +31,4 @@
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuboDmytro&hide=stars,issues&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatsuboDmytro&layout=compact&theme=dark)](https://github.com/KatsuboDmytro/github-readme-stats)
+[![codewars](https://www.codewars.com/users/KatsuboDmytro/badges/large)](https://www.codewars.com/users/KatsuboDmytro) 
