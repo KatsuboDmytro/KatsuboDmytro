@@ -1,6 +1,6 @@
 ### 👋 Hello World
 🏢 Looking for a job <br>
-👦🏻 19 y.o.<br>
+👦🏻 20 y.o.<br>
 ⚙️ I like to learn new technologies<br>
 👨‍💻 I have a blog in Linkedin<br>
 ![U](https://img.shields.io/badge/U-0085FF?style=for-the-badge&logo=U&logoColor=FF7A00)![A](https://img.shields.io/badge/A-FFD200?style=for-the-badge&logo=A&logoColor=FF7A00) Glory to Ukraine
